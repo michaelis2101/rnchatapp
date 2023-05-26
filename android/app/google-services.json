@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "477431089860",
+    "project_id": "vroschattest",
+    "storage_bucket": "vroschattest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477431089860:android:09c77f89562826b3d51791",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477431089860-et7rqrhqulvcbn88irf03v0ud2kida9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF3ZM6wW3SgV7-U-kkalR8UdkYSUXpxEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477431089860-et7rqrhqulvcbn88irf03v0ud2kida9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477431089860:android:5b2224b333e66e3fd51791",
+        "android_client_info": {
+          "package_name": "org.vrosapp.meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477431089860-et7rqrhqulvcbn88irf03v0ud2kida9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF3ZM6wW3SgV7-U-kkalR8UdkYSUXpxEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477431089860-et7rqrhqulvcbn88irf03v0ud2kida9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
